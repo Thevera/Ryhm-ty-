@@ -1,2 +1,2 @@
-# Ryhm-ty-
+# Tuntiharjoitus
 Ryhmätyö Vera, Alma ja Janika
